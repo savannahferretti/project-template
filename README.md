@@ -1,5 +1,5 @@
 Paper Title
-----------
+------------
 
 by A. A. Author<sup>1</sup>, B. B. Author<sup>1</sup>, & C. C. Author<sup>2</sup>
 
@@ -61,8 +61,8 @@ Project Organization
 
 Acknowledgements
 -------
-The analysis for this work has been performed on <HPC>. This research was funded by <GRANTOR>. <NAME> provided helpful feedback on the first draft. Thanks to our colleagues at <ORGANIZATION> for their continued support.
+The analysis for this work has been performed on ```<HPC>```. This research was funded by ```<GRANTOR>```.```<NAME>``` provided helpful feedback on the first draft. Thanks to our colleagues at ```<ORGANIZATION>``` for their continued support.
 
 
 --------
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>This template is based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</small></p>
