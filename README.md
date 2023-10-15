@@ -1,21 +1,14 @@
-# Paper Title
-============
+Paper Title
+----------
 
 by A. A. Author<sup>1</sup>, B. B. Author<sup>1</sup>, & C. C. Author<sup>2</sup>
 
 <sup>1</sup>Department, Organization, City, State, Country
 <sup>2</sup>Department, Organization, City, State, Country
 
-Status
-----------
+**Status:** This paper has been submitted for publication at <JOURNAL>. The <PAPER> was published in <JOURNAL>, <DOI>. <SUPPORTING_INFORMATION> is also available.  We welcome any comments, questions, or suggestions. Please email your feedback to <MAINAUTHOR> (<EMAIL>).
 
-This paper has been submitted for publication at <JOURNAL>.
-The <PAPER> was published in <JOURNAL>, <DOI>. <SUPPORTING_INFORMATION> is also available. 
-We welcome any comments, questions, or suggestions. Please email your feedback to <MAINAUTHOR> (<EMAIL>).
-
-Abstract
---------
-Insert abstract text here.
+**Abstract**: Insert abstract text here.
 
 Project Organization
 ------------
